@@ -5,11 +5,6 @@
 1. hoge
 1. hoge
 
-----
-hoge
-hoge
-----
-
 [hoge](http://www.tahoo.co.jp)
 
-#hoge
+
